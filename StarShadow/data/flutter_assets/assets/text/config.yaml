@@ -1,0 +1,197 @@
+installation:
+  id:
+    macOS: 1713134217938
+    windows: 1713130558462
+    linux: 1713134303317
+  isBeta: true
+
+appInfo:
+  name:
+    zh: 星影
+    zh_Hant: 星影
+    en: Star Shadow
+  copyRight: 
+    zh: 版权所有 © 2023 - ， 笃笃科技
+    zh_Hant: 版權所有 © 2023 - ， 篤篤科技
+    en: © 2023- , All rights reserved, Dudu Ltd. (Xiamen)
+  ltd:
+    zh: 笃笃（厦门）科技有限公司
+    zh_Hant: 篤篤（廈門）科技有限公司
+    en: Dudu Ltd. (Xiamen)
+  author:
+    zh: 大叶
+    zh_Hant: 大葉
+    en: Corvus Ye
+  legalese: 
+    zh: 一款为图数据库量身定做的数据库工具，有志于兼容多种数据源，我们正在努力让星影成为开发者在图数据库实践路上重要的伙伴。
+    zh_Hant: 一款為圖數據庫量身定做的數據庫工具，有志於兼容多種數據源，我們正在努力讓星影成為開發者在圖數據庫實踐路上重要的夥伴。
+    en: A database tool tailored for graph databases. Aspiring to be compatible with multiple data sources. We are working hard to make Star Shadow an important partner for developers on the road to graph database practice.
+  icon: assets/images/DUDU.png
+  comingSoon:
+    zh: 更多新功能敬请期待
+    zh_Hant: 更多新功能敬請期待
+    en: More features is coming soon.
+
+  # 提交
+  submit:
+    zh: 提交
+    zh_Hant: 提交
+    en: Submit
+
+  # 加入
+  join:
+    zh: 加入
+    zh_Hant: 加入
+    en: Join
+  # 欢迎参与讨论
+  welcomeDiscuss:
+    zh: 欢迎参与讨论
+    zh_Hant: 歡迎參與討論
+    en: Welcome to join the discussion
+
+  # n条评论
+  comments:
+    zh: 条评论
+    zh_Hant: 條評論
+    en: comment(s)
+
+  # 我有一个想法
+  idea:
+    zh: 我有一个想法...
+    zh_Hant: 我有一個想法...
+    en: I have an idea...
+
+  # 一起来吐槽
+  roast:
+    zh: 一起来吐槽...
+    zh_Hant: 一起來吐槽...
+    en: I have an idea...
+
+  title:
+    zh: 标题
+    zh_Hant: 標題
+    en: Title
+
+  subSucceeful:
+    zh: 订阅成功！
+    zh_Hant: 订阅成功！
+    en: Subscription successful !
+  follow:
+    zh: 有任何问题，详询公众号，期待下次再见！
+    zh_Hant: 有任何问题，详询公众号，期待下次再见！
+    en: If you have any questions, please consult the official account. Looking forward to seeing you next time!
+  seeYou:
+    zh: 期待下次再见！
+    zh_Hant: 期待下次再見！
+    en: Looking forward to seeing you next time!
+
+  duration:
+    zh: 时长
+    zh_Hant: 時長
+    en: Duration
+
+  years:
+    zh: 年
+    zh_Hant: 年
+    en: years
+  months:
+    zh: 个月
+    zh_Hant: 個月
+    en: months
+  days:
+    zh: 天
+    zh_Hant: 天
+    en: days
+  weeks:
+    zh: 周
+    zh_Hant: 週
+    en: weeks
+  hours:
+    zh: 小时
+    zh_Hant: 小時
+    en: hours
+  minutes:
+    zh: 分钟
+    zh_Hant: 分鐘
+    en: minutes
+  seconds:
+    zh: 秒
+    zh_Hant: 秒
+    en: seconds
+  
+  year:
+    zh: 年
+    zh_Hant: 年
+    en: year
+  month:
+    zh: 个月
+    zh_Hant: 個月
+    en: month
+  mouthUnit:
+    zh: 月
+    zh_Hant: 月
+    en: month
+  day:
+    zh: 天
+    zh_Hant: 天
+    en: day
+  week:
+    zh: 周
+    zh_Hant: 週
+    en: week
+  hour:
+    zh: 小时
+    zh_Hant: 小時
+    en: hour
+  minute:
+    zh: 分钟
+    zh_Hant: 分鐘
+    en: minute
+  second:
+    zh: 秒
+    zh_Hant: 秒
+    en: second
+  
+  viewLicense:
+    zh: 查看许可
+    zh_Hant: 查看授權
+    en: View License
+  about:
+    zh: 关于
+    zh_Hant: 關於
+    en: About
+  noMore:
+    zh: 靡不有初，鲜克有终
+    zh_Hant: 靡不有初，鮮克有終
+    en: Nothing is eternal, everything has an end
+
+  realTime:
+    zh: 实时
+    zh_Hant: 實時
+    en: Real Time
+  
+  dataSource:
+    zh: 数据源
+    zh_Hant: 數據源
+    en: Data Source
+  
+  coinSlot:
+    zh: 投币口
+    zh_Hant: 投幣口
+    en: Coin slot
+  pleaseSub:
+    zh: 如果星影对工作有帮助，并希望我们开发出更多好用的功能，欢迎投币支持。
+    zh_Hant: 如果星影對工作又幫助，並希望我們開發出更多好用的功能，歡迎投幣支持。
+    en: If Star Shadow is helpful for work and hopes that we can develop more useful features, welcome coin support.
+  sponsor:
+    zh: 成为个人赞助商
+    zh_Hant: 成為個人贊助商
+    en: Becoming a personal sponsor
+  coinIn:
+    zh: 投币
+    zh_Hant: 投幣
+    en: Coin in
+  articles:
+    zh: 行文
+    zh_Hant: 行文
+    en: Industry articles
