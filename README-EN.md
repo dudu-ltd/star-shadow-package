@@ -13,7 +13,7 @@ Welcome to the world of StarShadow. If you are a new player of StarShadow or a g
 -  windows
 
     ```shell
-    git clone -b windows --single-branch https://gitee.com/dudu-ltd/star-shadow-package.git
+    git clone -b windows --single-branch https://github.com/dudu-ltd/star-shadow-package.git
     ```
 - macos
     ```shell
