@@ -1,11 +1,8 @@
 # 星影图数据库客户端
 
-<br/>
-<br/>
-<br/>
-<center><img src="./logo.png"></img></center>
-<br/>
-<br/>
+<p align="center">
+    <img src="./logo.png"></img>
+</p>
 
 欢迎来到星影的世界。如果你是一名星影或者图数据库的新玩家，或者不是开发人员。可以跟随以下的文档，不用部署自己的图数据库，也能使用上星影。
 
@@ -32,7 +29,7 @@
 ### 下载压缩包
 
 #### 地址
-- Windows: [StarShadow-win-v1.0.0-beta.zip](https://gitee.com/dudu-ltd/star-shadow-package/releases/download/v1.0.0-beta/StarShadow-win-v1.0.0-beta.zip)
+- Windows: [StarShadow-win-v1.0.0-beta.zip](https://gitee.com/dudu-ltd/star-shadow-package/archive/refs/tags/v1.0.0-beta.zip)
 - macOS: 敬请期待
 - linux: 敬请期待
 

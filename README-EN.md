@@ -1,11 +1,8 @@
 # Desktop Client for StarShadow Graph Database
 
-<br/>
-<br/>
-<br/>
-<center><img src="./logo.png"></img></center>
-<br/>
-<br/>
+<p align="center">
+    <img src="./logo.png"></img>
+</p>
 
 Welcome to the world of StarShadow. If you are a new player of StarShadow or a graph database, or not a developer. You can follow the following documents to use StarShadow without deploying your own graph database.
 
@@ -32,7 +29,7 @@ Welcome to the world of StarShadow. If you are a new player of StarShadow or a g
 ### Download ZIP
 
 #### Links
-- Windows: [StarShadow-win-v1.0.0-beta.zip](https://github.com/dudu-ltd/star-shadow-package/releases/download/v1.0.0-beta/StarShadow-win-v1.0.0-beta.zip)
+- Windows: [StarShadow-win-v1.0.0-beta.zip](https://github.com/dudu-ltd/star-shadow-package/archive/refs/tags/v1.0.0-beta.zip)
 - macOS: Coming soon
 - linux: Coming soon
 
