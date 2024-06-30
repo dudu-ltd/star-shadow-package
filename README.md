@@ -17,12 +17,12 @@
     ```
 - macos
     ```shell
-    # 敬请期待
+    git clone -b macos --single-branch https://gitee.com/dudu-ltd/star-shadow-package.git
     ```
 
 - linux
     ```shell
-    # 敬请期待
+    git clone -b linux --single-branch https://gitee.com/dudu-ltd/star-shadow-package.git
     ```
 
 
@@ -30,8 +30,8 @@
 
 #### 地址
 - Windows: [StarShadow-win-v1.0.0-beta.zip](https://gitee.com/dudu-ltd/star-shadow-package/archive/refs/tags/v1.0.0-beta.zip)
-- macOS: 敬请期待
-- linux: 敬请期待
+- macOS: [StarShadow-macos-v1.0.0-beta.zip](https://gitee.com/dudu-ltd/star-shadow-package/releases/download/v1.0.0-beta/StarShadow-macos-v1.0.0-beta.zip)
+- linux: [StarShadow_1.0.0-beta_amd64.deb](https://gitee.com/dudu-ltd/star-shadow-package/releases/download/v1.0.0-beta/StarShadow_1.0.0-beta_amd64.deb)
 
 #### 安装
 当前版本使用绿色版，直接解压至想要安装的目录即可。进入文件夹，然后找到【与众不同的那个图标.exe】双击打开即可。

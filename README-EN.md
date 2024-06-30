@@ -17,12 +17,12 @@ Welcome to the world of StarShadow. If you are a new player of StarShadow or a g
     ```
 - macos
     ```shell
-    # Coming soon
+    git clone -b macos --single-branch https://github.com/dudu-ltd/star-shadow-package.git
     ```
 
 - linux
     ```shell
-    # Coming soon
+    git clone -b linux --single-branch https://github.com/dudu-ltd/star-shadow-package.git
     ```
 
 
@@ -30,8 +30,8 @@ Welcome to the world of StarShadow. If you are a new player of StarShadow or a g
 
 #### Links
 - Windows: [StarShadow-win-v1.0.0-beta.zip](https://github.com/dudu-ltd/star-shadow-package/archive/refs/tags/v1.0.0-beta.zip)
-- macOS: Coming soon
-- linux: Coming soon
+- macOS: [StarShadow-macos-v1.0.0-beta.zip](https://github.com/dudu-ltd/star-shadow-package/releases/download/v1.0.0-beta/StarShadow-macos-v1.0.0-beta.zip)
+- linux: [StarShadow_1.0.0-beta_amd64.deb](https://github.com/dudu-ltd/star-shadow-package/releases/download/v1.0.0-beta/StarShadow_1.0.0-beta_amd64.deb)
 
 #### Installation
 The current version uses the green version, which can be directly unzipped to the directory you want to install. Enter the folder, and then find the 【与众不同的那个图标.exe】 and double-click to open it.
