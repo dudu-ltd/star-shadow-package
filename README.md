@@ -28,9 +28,9 @@
 
 ### 下载压缩包
 
-- Windows: [StarShadow-win-v1.1.0.zip](https://gitee.com/dudu-ltd/star-shadow-package/releases/download/v1.1.0/StarShadow-win-v1.1.0.zip)
-- macOS: [StarShadow-macos-v1.1.0.dmg](https://gitee.com/dudu-ltd/star-shadow-package/releases/download/v1.1.0/StarShadow-macos-v1.1.0.dmg)
-- linux: [StarShadow_1.1.0_amd64.deb](https://gitee.com/dudu-ltd/star-shadow-package/releases/download/v1.1.0/StarShadow_1.1.0-amd64.deb)
+- Windows: [StarShadow-win-v1.2.0.zip](https://gitee.com/dudu-ltd/star-shadow-package/releases/download/v1.2.0/StarShadow-win-v1.2.0.zip)
+- macOS: [StarShadow-macos-v1.2.0.dmg](https://gitee.com/dudu-ltd/star-shadow-package/releases/download/v1.2.0/StarShadow-macos-v1.2.0.dmg)
+- linux: [StarShadow_1.2.0_amd64.deb](https://gitee.com/dudu-ltd/star-shadow-package/releases/download/v1.2.0/StarShadow_1.2.0-amd64.deb)
 
 
 ## 安装
@@ -41,12 +41,12 @@
 
 - macOS  
 
-    双击下载好的`StarShadow-macos-v1.1.0.dmg`进行安装即可。
+    双击下载好的`StarShadow-macos-v1.2.0.dmg`进行安装即可。
 
 - Ubuntu 24.04
 
     ```shell
-    sudo dpkg -i StarShadow_1.1.0_amd64.deb
+    sudo dpkg -i StarShadow_1.2.0_amd64.deb
     sudo apt-get install libkeybinder-3.0
     sudo apt-get install libmpv2
     # /usr/local/lib/StarShadow 
@@ -55,7 +55,7 @@
 -  优麒麟 24.04
 
     ```shell
-    sudo dpkg -i StarShadow_1.1.0_amd64.deb
+    sudo dpkg -i StarShadow_1.2.0_amd64.deb
     sudo apt-get install libkeybinder-3.0
     # /usr/local/lib/StarShadow
     ```

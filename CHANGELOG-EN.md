@@ -1,5 +1,33 @@
-# Changelog
-## v1.1.0
+# 1.2.0
+
+## Fireworks.
+
+* [Feature] Add code completion function when writing scripts for queries
+* [Feature] When writing query scripts, automatically prompt the use of functions involved in code completion, and support direct jump to the official website of the .database product to view the documentation.
+* [Feature] When writing query scripts, support right-click menu to execute scripts
+* [Feature] When writing query scripts, support multi-line quick comment `Ctrl+/`
+* [Feature] When writing query scripts, support code search function `Ctrl+F`
+* [Feature] When writing query scripts, ... (For more shortcut key functions, please refer to [reqable/re-editor](https://github.com/reqable/re-editor))
+* [Operation Habit Change] The shortcut key `Ctrl+R` for the query function `Run` is not available, changed to `Alt+R`
+* [Operation Habit Change] The shortcut key for the query function `Format` is changed to `Alt+L`
+* [Operation Habit Change] Cancel the shortcut key `Alt+F` to open the file menu
+* [Optimization] Refactor the code editor to improve the overall performance when writing query scripts, and introduce many of the above functions
+* [Optimization] Unified fonts of different components, using [Ali Pu Hui Ti]
+* [Optimization] The timeliness of tree structure update after navigation tree node operation
+* [Optimization] The style problem of the `delete` button is marked with a dangerous color
+* [Optimization] Append directionality to graph visualization
+* [Optimization] In the graph visualization, the starting and ending points of the edge are set in the center of the node to improve the visual experience
+* [Fix] Overlapping problem of task nodes in execution plan visualization
+* [Fix] Query file renaming, file name suffix causes the loss of navigation tree nodes
+* [Fix] After deleting the schema navigation tree element, the opened tab is not removed
+* [Fix] Fixed the error caused by adding a connection using the default connection
+* [Fix] The problem of incorrect page number and serial number in the query result table
+* [Fix] The problem that the desc space syntax is not recognized
+
+# 1.1.0
+
+## Autumn.
+
 * [Feature] Visualization supports configuring the field used for node names. Support node color configuration
 * [Feature] In the data table view of tags and relationships, support switching to the graph visualization view
 * [Feature] The paging loading mode of the data table is changed to use the paging button loading method
@@ -31,12 +59,15 @@
 * [Fix] Fixed the problem that the query file was renamed and the parameters were not synchronized
 * [Document] Add an explanation about commercial licenses
 
-## 1.0.0-beta
-* [Feature] Graph data display supports using tables with multi-dimensional headers
+# 1.0.0-beta
+
+## Sprout.
+
+* [Feature] The graph data display supports using a table with multi-dimensional headers
 * [Feature] Integrated graph visualization plug-in, and support graph visualization when writing queries
 * [Feature] Conveniently operate and manage Schema using the navigation tree
 * [Feature] Path format data visualization
-* [Feature] Subgraph data uses a cell in the table to trigger a pop-up embedded table display
+* [Feature] Subgraph data uses a pop-up embedded table triggered by a cell in the table
 * [Feature] Support data import using CSV
 * [Feature] Support quickly creating Schema with CSV headers
 * [Feature] Support adding, deleting, modifying, and querying data for a single table (tag table, relationship table)
