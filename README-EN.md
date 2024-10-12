@@ -28,7 +28,7 @@ At the graph database level, it currently supports: [Nebula Graph](http://nebula
 
 - Windows: [StarShadow-win-v1.2.0.zip](https://github.com/dudu-ltd/star-shadow-package/releases/download/v1.2.0/StarShadow-win-v1.2.0.zip)
 - macOS: [StarShadow-macos-v1.2.0.dmg](https://github.com/dudu-ltd/star-shadow-package/releases/download/v1.2.0/StarShadow-macos-v1.2.0.dmg)
-- linux: [StarShadow_1.2.0-amd64.deb](https://github.com/dudu-ltd/star-shadow-package/releases/download/v1.2.0/StarShadow_1.2.0_amd64.deb)
+- linux: [StarShadow_1.2.0_amd64.deb](https://github.com/dudu-ltd/star-shadow-package/releases/download/v1.2.0/StarShadow_1.2.0_amd64.deb)
 
 #### Installation
 
