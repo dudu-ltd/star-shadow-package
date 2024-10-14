@@ -29,7 +29,7 @@
 ### 下载压缩包
 
 - Windows: [StarShadow-win-v1.2.0.zip](https://gitee.com/dudu-ltd/star-shadow-package/releases/download/v1.2.0/StarShadow-win-v1.2.0.zip)
-- macOS: [StarShadow-macos-v1.2.0.dmg](https://gitee.com/dudu-ltd/star-shadow-package/releases/download/v1.2.0/StarShadow-macos-v1.2.0.dmg)
+- macOS: [StarShadow-macos-v1.2.0.pkg](https://gitee.com/dudu-ltd/star-shadow-package/releases/download/v1.2.0/StarShadow-macos-v1.2.0.pkg)
 - linux: [StarShadow_1.2.0_amd64.deb](https://gitee.com/dudu-ltd/star-shadow-package/releases/download/v1.2.0/StarShadow_1.2.0_amd64.deb)
 
 
@@ -41,7 +41,7 @@
 
 - macOS  
 
-    双击下载好的`StarShadow-macos-v1.2.0.dmg`进行安装即可。
+    双击下载好的`StarShadow-macos-v1.2.0.pkg`进行安装即可。
 
 - Ubuntu 24.04
 
