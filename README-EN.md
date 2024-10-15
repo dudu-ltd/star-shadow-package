@@ -27,7 +27,7 @@ At the graph database level, it currently supports: [Nebula Graph](http://nebula
 ### Download ZIP
 
 - Windows: [StarShadow-win-v1.2.0.zip](https://github.com/dudu-ltd/star-shadow-package/releases/download/v1.2.0/StarShadow-win-v1.2.0.zip)
-- macOS: [StarShadow-macos-v1.2.0.pkg](https://github.com/dudu-ltd/star-shadow-package/releases/download/v1.2.0/StarShadow-macos-v1.2.0.pkg)
+- macOS: [StarShadow-macos-v1.2.0.dmg](https://github.com/dudu-ltd/star-shadow-package/releases/download/v1.2.0/StarShadow-macos-v1.2.0.dmg)
 - linux: [StarShadow_1.2.0_amd64.deb](https://github.com/dudu-ltd/star-shadow-package/releases/download/v1.2.0/StarShadow_1.2.0_amd64.deb)
 
 #### Installation
@@ -38,7 +38,7 @@ At the graph database level, it currently supports: [Nebula Graph](http://nebula
 
 - macOS
     
-        Double-click the downloaded `StarShadow-macos-v1.2.0.pkg` to install.
+        Double-click the downloaded `StarShadow-macos-v1.2.0.dmg` to install.
 
 - Ubuntu 24.04
 
