@@ -12,7 +12,7 @@
 **Star Shadow** adopts a new technical architecture ([Flutter](https://github.com/flutter/flutter)), and currently supports the following operating systems: Windows, macOS, Ubuntu | Kylin three major common operating systems.
 At the graph database level, it currently supports: [Nebula Graph](http://nebula-graph.com.cn/).
 
-![Snapshot](./assets/1726694716701.jpg)
+![Snapshot](./assets/1730839138100.jpg)
 ![Snapshot](./assets/1726694816217.jpg)
 
 - Official website: [https://dudu.ltd](https://dudu.ltd)
@@ -26,9 +26,9 @@ At the graph database level, it currently supports: [Nebula Graph](http://nebula
 
 ### Download ZIP
 
-- Windows: [StarShadow-win-v1.2.0.zip](https://github.com/dudu-ltd/star-shadow-package/releases/download/v1.2.0/StarShadow-win-v1.2.0.zip)
-- macOS: [StarShadow-macos-v1.2.0.dmg](https://github.com/dudu-ltd/star-shadow-package/releases/download/v1.2.0/StarShadow-macos-v1.2.0.dmg)
-- linux: [StarShadow_1.2.0_amd64.deb](https://github.com/dudu-ltd/star-shadow-package/releases/download/v1.2.0/StarShadow_1.2.0_amd64.deb)
+- Windows: [StarShadow-win-v1.3.0.zip](https://github.com/dudu-ltd/star-shadow-package/releases/download/v1.3.0/StarShadow-win-v1.3.0.zip)
+- macOS: [StarShadow-macos-v1.3.0.dmg](https://github.com/dudu-ltd/star-shadow-package/releases/download/v1.3.0/StarShadow-macos-v1.3.0.dmg)
+- linux: [StarShadow_1.3.0_amd64.deb](https://github.com/dudu-ltd/star-shadow-package/releases/download/v1.3.0/StarShadow_1.3.0_amd64.deb)
 
 #### Installation
 
@@ -38,12 +38,12 @@ At the graph database level, it currently supports: [Nebula Graph](http://nebula
 
 - macOS
     
-        Double-click the downloaded `StarShadow-macos-v1.2.0.dmg` to install.
+        Double-click the downloaded `StarShadow-macos-v1.3.0.dmg` to install.
 
 - Ubuntu 24.04
 
     ```shell
-    sudo dpkg -i StarShadow_1.2.0_amd64.deb
+    sudo dpkg -i StarShadow_1.3.0_amd64.deb
     sudo apt-get install libkeybinder-3.0
     sudo apt-get install libmpv2
     # /usr/local/lib/StarShadow 
@@ -52,7 +52,7 @@ At the graph database level, it currently supports: [Nebula Graph](http://nebula
 - Kylin 24.04
 
     ```shell
-    sudo dpkg -i StarShadow_1.2.0_amd64.deb
+    sudo dpkg -i StarShadow_1.3.0_amd64.deb
     sudo apt-get install libkeybinder-3.0
     # /usr/local/lib/StarShadow
     ```

@@ -1,3 +1,26 @@
+# 1.3.0
+
+## Candlelight.
+
+* [Feature] Graph visualization supports pause and move node positions, and manually adjust node positions.
+* [Feature] Graph visualization supports using field values as node image display.
+* [Feature] Graph visualization displays the data node data panel after selecting the node.
+* [Feature] Graph visualization supports using the data panel for filtering when triggered by clicking.
+* [Feature] Graph visualization layout supports forward and backward, controlling the loading of neighboring nodes.
+* [Feature] Graph visualization layout algorithm supports adjusting layout parameters.
+* [Feature] Graph visualization supports controlling the display and hiding of nodes and relationships by node type and edge type.
+* [Feature] Add 【Quick Start】 in the lower left corner of the main interface, support creating tags, relationships, and queries in the lower left corner.
+* [Feature] Partial log function: user directory/.star_shadow/logs/date.log.
+* [Optimization] Improve the performance of closing nodes in the schema navigation.
+* [Optimization] Automatically maximize when opening.
+* [Optimization] Add tag name to the floating data panel of the graph visualization.
+* [Optimization] Graph visualization display, text control within 10 characters.
+* [Fix] Fixed the problem that the relationship name contains operators and cannot be opened.
+* [Fix] Fixed the internationalization error in the settings page after viewing the license.
+* [Fix] Fixed the problem that `!=` is formatted as `=` in the `Format` code function.
+* [Fix] In light mode, the text color of the markdown document content is displayed incorrectly.
+* [Fix] The problem of expiration of login, and the login status is not removed.
+
 # 1.2.0
 
 ## Fireworks.
