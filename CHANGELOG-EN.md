@@ -2,19 +2,20 @@
 
 ## Candlelight.
 
-* [Feature] Graph visualization supports pause and move node positions, and manually adjust node positions.
+* [Feature] Graph visualization supports closing node position movement, and dragging nodes, manually adjusting node position.
 * [Feature] Graph visualization supports using field values as node image display.
 * [Feature] Graph visualization displays the data node data panel after selecting the node.
-* [Feature] Graph visualization supports using the data panel for filtering when triggered by clicking.
+* [Feature] Graph visualization supports using table paging to load neighboring nodes when triggering node clicks.
 * [Feature] Graph visualization layout supports forward and backward, controlling the loading of neighboring nodes.
 * [Feature] Graph visualization layout algorithm supports adjusting layout parameters.
 * [Feature] Graph visualization supports controlling the display and hiding of nodes and relationships by node type and edge type.
 * [Feature] Add 【Quick Start】 in the lower left corner of the main interface, support creating tags, relationships, and queries in the lower left corner.
 * [Feature] Partial log function: user directory/.star_shadow/logs/date.log.
 * [Optimization] Improve the performance of closing nodes in the schema navigation.
-* [Optimization] Automatically maximize when opening.
+* [Optimization] When opening the software, the window is automatically maximized.
 * [Optimization] Add tag name to the floating data panel of the graph visualization.
 * [Optimization] Graph visualization display, text control within 10 characters.
+* [Fix] In the graph visualization, when there are many nodes, the entire display area collapses into a black screen.
 * [Fix] Fixed the problem that the relationship name contains operators and cannot be opened.
 * [Fix] Fixed the internationalization error in the settings page after viewing the license.
 * [Fix] Fixed the problem that `!=` is formatted as `=` in the `Format` code function.
