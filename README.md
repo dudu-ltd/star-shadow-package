@@ -6,15 +6,19 @@
     <img src="./assets/logo.png"></img>
 </p>
 
-<p align="center">让人们离知识图谱更近一步</p>
+<p align="center">图无界，数有联</p>
 
 **星影**是一款图数据库客户端，它提供了图数据库的可视化操作界面，让用户可以通过图形化的方式，对图数据库进行操作。  
 **星影**采用了全新的技术架构（[Flutter](https://github.com/flutter/flutter)），目前已经支持的操作系统有：Windows、macOS、Ubuntu | 优麒麟 三大常见操作系统。  
 在图数据库层面，目前支持：[Nebula Graph](http://nebula-graph.com.cn/)。
 
-![Snapshot](./assets/1730839138100.jpg)
+![Snapshot](./assets/ai-example.gif)
 
-![Snapshot](./assets/1726694816217.jpg)
+![Snapshot](./assets/code-prompt.gif)
+
+![Snapshot](./assets/code-tpl.gif)
+
+![Snapshot](./assets/gen-entity.gif)
 
 - 官方网站：[https://dudu.ltd](https://dudu.ltd)
 - 文档：[https://dudu.ltd/docs/zh/StarShadow/new-player.html](https://dudu.ltd/docs/zh/StarShadow/new-player.html)
@@ -28,8 +32,8 @@
 
 ### 下载压缩包
 
-- Windows: [StarShadow-win-v1.3.0.zip](https://gitee.com/dudu-ltd/star-shadow-package/releases/download/v1.3.0/StarShadow-win-v1.3.0.zip)
-- macOS: [StarShadow-macos-v1.3.0.dmg](https://gitee.com/dudu-ltd/star-shadow-package/releases/download/v1.3.0/StarShadow-macos-v1.3.0.dmg)
+- Windows: [StarShadow-win-v2.0.0.zip](https://gitee.com/dudu-ltd/star-shadow-package/releases/download/v2.0.0/StarShadow-win-v2.0.0.zip)
+- macOS: [StarShadow-macos-v2.0.0.dmg](https://gitee.com/dudu-ltd/star-shadow-package/releases/download/v2.0.0/StarShadow-macos-v2.0.0.dmg)
 - linux: [StarShadow_1.3.0_amd64.deb](https://gitee.com/dudu-ltd/star-shadow-package/releases/download/v1.3.0/StarShadow_1.3.0_amd64.deb)
 
 
@@ -41,7 +45,7 @@
 
 - macOS  
 
-    双击下载好的`StarShadow-macos-v1.3.0.dmg`进行安装即可。
+    双击下载好的`StarShadow-macos-v2.0.0.dmg`进行安装即可。
 
 - Ubuntu 24.04
 

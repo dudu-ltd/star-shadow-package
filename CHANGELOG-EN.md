@@ -1,3 +1,71 @@
+
+# 2.0.0
+
+## Shanqing.
+
+* [Feature] Support defining code templates, supporting different scopes, such as specific graph space, specific data source, global, etc.
+* [Feature] Integrated AI large model, default DeepSeek-R1, other models can be configured.
+  1. [Feature] Built-in 8 roles, functions include: workflow for creating graphs, modeling, initializing data, index creation, script tuning and repair...
+  1. [Feature] Support custom roles, large models, and flat configuration workflows.
+  1. [Feature] Support quick call AI in the query area through right-click menu.
+  1. [Feature] Support quickly carrying local table structure (optional, default not passed to AI).
+  1. [Feature] Support appending data mode in the question (not uploading data, only uploading table association of graph data, default not passed).
+  1. [Feature] Conversation content supports SVG rendering.
+  1. [Feature] Conversation content, role, model API parameters local storage.
+
+* [Feature] Data migration.
+  1. Graph space data overview.
+  1. Selected table copy supports partial selection, full selection, and no selection (default is full selection).
+  1. When backing up data, the index is backed up synchronously and the index is rebuilt.
+
+* [Feature] Background tasks and notifications.
+  1. Optimize the loading method of schema tree, using background tasks for silent loading.
+  1. The import function uses the background task list instead of the loading progress ring.
+  1. Tasks with calculable endpoints display specific progress percentage.
+  1. Establish a notification mechanism for task error messages, viewable through the global interface in the lower right corner.
+  1. Task list details display.
+
+* [Feature] Authorization mechanism.
+  1. Online user login silently installs temporary authorization code.
+  1. Support offline authorization.
+  1. [Operation Habit Change] Cancel trial function, change to license method.
+
+* [Operation Habit Change] Cancel the 【Guide】 and 【Tip】 tabs in the far right function area, change to view through the documentation station.
+* [Operation Habit Change] The query parameter area is minimized by default.
+* [Operation Habit Change] Move the trigger to view Hosts information in the data source to right-click 【Overview】.
+* [Operation Habit Change] Move the quick add query button to the main operation area tab.
+* [Operation Habit Change] The query area does not enable the execution plan by default.
+* [Feature] The selected tab in the main operation area synchronizes selection in the navigation tree.
+* [Feature] The tags opened in the main area support synchronously expanding nodes in the navigation tree.
+* [Feature] When the program starts, initialize and load the previously opened main page.
+* [Feature] The global information of the application adds device number.
+* [Feature] The query function implements code completion based on syntax.
+* [Feature] When adding edges, you can query points and select them as start and end nodes.
+* [Feature] In the tree navigation, right-click the table object to generate NgBatis entity class.
+* [Optimization] Further improve the experience of code prompts based on syntax.
+* [Optimization] When editing schema, automatically scroll to the bottom when adding attributes.
+* [Optimization] Table style optimization, so that 30 rows of data do not overflow the screen.
+* [Fix] Fixed the problem of not loading nodes when refreshing data in graph visualization and then triggering neighboring nodes.
+* [Fix] Fixed the problem that edge data filtering does not work and point filtering must have an index.
+* [Fix] Fixed the problem that the color of the data panel in graph visualization is too light to see clearly.
+* [Fix] Use Chinese as the default language.
+<!-- * [Fix] Attempt to fix the problem that command+c cannot copy on macOS. -->
+* [Fix] Fixed the problem of importing geo field types.
+* [Fix] Fixed the problem of geo type display error.
+* [Fix] Fixed the problem of schema navigation tree error after deleting and recreating the same name space.
+* [Fix] Fixed the problem that vid is int and cannot be imported without setting id value offset.
+* [Fix] Fixed the problem that the query area tab page is too many to see the tab content.
+* [Fix] Fixed the problem that the query result tab page is too many to see the tab content.
+* [Fix] Fixed the problem that edge table names and attributes cannot use Chinese.
+* [Fix] Fixed the problem of CSV import type adaptation.
+* [Fix] Fixed the problem of displaying the same column with different types in the table.
+* [Fix] Fixed the problem of creating tags pop-up error.
+* [UI] Optimize the display effect when the main operation area button is out of bounds.
+* [UI] Beautify the style of window separator lines.
+* [UI] Add icons to the query area log tab.
+* [UI] Add a unified close button to some form pop-ups.
+* [UI] Adjust the minimum width of the main operation area to 40% limit to 100 pixels.
+
 # 1.3.0
 
 ## Candlelight.

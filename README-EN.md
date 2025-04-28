@@ -6,14 +6,19 @@
     <img src="./assets/logo.png"></img>
 </p>
 
-<p align="center">Bring people closer to knowledge graphs</p>
+<p align="center">Graph without Boundaries, Data with Connections.</p>
 
 **Star Shadow** is a graph database client that provides a visual operation interface for graph databases, allowing users to operate graph databases in a graphical way.
 **Star Shadow** adopts a new technical architecture ([Flutter](https://github.com/flutter/flutter)), and currently supports the following operating systems: Windows, macOS, Ubuntu | Kylin three major common operating systems.
 At the graph database level, it currently supports: [Nebula Graph](http://nebula-graph.com.cn/).
 
-![Snapshot](./assets/1730839138100.jpg)
-![Snapshot](./assets/1726694816217.jpg)
+![Snapshot](./assets/ai-example.gif)
+
+![Snapshot](./assets/code-prompt.gif)
+
+![Snapshot](./assets/code-tpl.gif)
+
+![Snapshot](./assets/gen-entity.gif)
 
 - Official website: [https://dudu.ltd](https://dudu.ltd)
 - Documentation: [https://dudu.ltd/docs/en/StarShadow/new-player.html](https://dudu.ltd/docs/en/StarShadow/new-player.html)
@@ -26,8 +31,8 @@ At the graph database level, it currently supports: [Nebula Graph](http://nebula
 
 ### Download ZIP
 
-- Windows: [StarShadow-win-v1.3.0.zip](https://github.com/dudu-ltd/star-shadow-package/releases/download/v1.3.0/StarShadow-win-v1.3.0.zip)
-- macOS: [StarShadow-macos-v1.3.0.dmg](https://github.com/dudu-ltd/star-shadow-package/releases/download/v1.3.0/StarShadow-macos-v1.3.0.dmg)
+- Windows: [StarShadow-win-v2.0.0.zip](https://github.com/dudu-ltd/star-shadow-package/releases/download/v2.0.0/StarShadow-win-v2.0.0.zip)
+- macOS: [StarShadow-macos-v2.0.0.dmg](https://github.com/dudu-ltd/star-shadow-package/releases/download/v2.0.0/StarShadow-macos-v2.0.0.dmg)
 - linux: [StarShadow_1.3.0_amd64.deb](https://github.com/dudu-ltd/star-shadow-package/releases/download/v1.3.0/StarShadow_1.3.0_amd64.deb)
 
 #### Installation
@@ -38,7 +43,7 @@ At the graph database level, it currently supports: [Nebula Graph](http://nebula
 
 - macOS
     
-        Double-click the downloaded `StarShadow-macos-v1.3.0.dmg` to install.
+        Double-click the downloaded `StarShadow-macos-v2.0.0.dmg` to install.
 
 - Ubuntu 24.04
 
