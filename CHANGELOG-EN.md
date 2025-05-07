@@ -1,3 +1,6 @@
+# 2.0.1
+
+* [fix] Fixed the problem that the license cannot be set manually.
 
 # 2.0.0
 
