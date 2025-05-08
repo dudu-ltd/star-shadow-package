@@ -1,6 +1,7 @@
 # 2.0.1
 
 * [fix] Fixed the problem that the license cannot be set manually.
+* [UI] The font of the AI module is consistent with the global one.
 
 # 2.0.0
 
