@@ -1,3 +1,13 @@
+
+# 2.1.0
+
+* [Feature] Support clearing a single table.
+* [Optimization] Performance improvement. When visualization is not activated, close unnecessary background operations to avoid CPU usage.
+* [Optimization] Optimize the program exit experience.
+* [Optimization] Beautify the arrow style of graph visualization.
+* [Fix] Fixed the problem that INT64 exceeds half of the maximum length and becomes negative.
+
+
 # 2.0.1
 
 * [fix] Fixed the problem that the license cannot be set manually.

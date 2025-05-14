@@ -32,7 +32,7 @@
 
 ### 下载压缩包
 
-- Windows: [StarShadow-win-v2.0.1.zip](https://gitee.com/dudu-ltd/star-shadow-package/releases/download/v2.0.1/StarShadow-win-v2.0.1.zip)
+- Windows: [StarShadow-win-v2.1.0.zip](https://gitee.com/dudu-ltd/star-shadow-package/releases/download/v2.1.0/StarShadow-win-v2.1.0.zip)
 - macOS: [StarShadow-macos-v2.0.1.dmg](https://gitee.com/dudu-ltd/star-shadow-package/releases/download/v2.0.1/StarShadow-macos-v2.0.1.dmg)
 - linux: [StarShadow_1.3.0_amd64.deb](https://gitee.com/dudu-ltd/star-shadow-package/releases/download/v1.3.0/StarShadow_1.3.0_amd64.deb)
 
