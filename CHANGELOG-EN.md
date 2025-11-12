@@ -1,4 +1,35 @@
 
+# 2.2.0
+
+* [Operation Habit Change] No login required.
+* [Refactor] Refactor the AI-calling module to use ToolCall for recursive workflow invocation.
+* [Optimization] Rework nGQL formatting.
+* [Optimization] Improve visualization performance.
+* [Optimization] Improve the table auto column-width adjustment experience.
+* [Optimization] Improve the experience when closing the application.
+* [Feature] Show total record count and total pages in query results, and support jumping to a page by entering a page number.
+* [Feature] Collect anonymous usage data.
+* [Feature] Local logs now include client-generated historical scripts.
+* [Feature] Automatically open the "Create Connection" window when opening a workspace.
+* [Feature] Automatically append a query window when opening a query.
+* [Feature] Support quick collapsing of multiple connections.
+* [Feature] Display the navigation/parent hierarchy on edge and node table pages.
+* [Feature] Unified pagination and loading indicator for node/edge tables and their visualizations.
+* [Feature] Supports installation of package pipelines.
+* [Feature] New version update check.
+* [Fix] Fix incorrect Go syntax rules that caused highlighting and formatting errors.
+* [Fix] Fix issue where pressing Enter to send in AI chat introduced unintended line breaks.
+* [Fix] Fix UI freeze in the query code editor when typing large amounts of code due to code-completion suggestions.
+* [Fix] Fix issue where testing a connection without required information did not show error messages properly.
+* [Fix] Fix issue where switching workspaces prevented opening that workspace's history windows.
+* [Fix] Fix issue where history tabs did not load correctly at startup.
+* [Fix] Fix issue where adding a connection or switching workspaces did not promptly update the navigation tree.
+* [Fix] Fix issue where Markdown with TODO checkboxes failed to render.
+* [Fix] Fix syntax highlighting broken by non-breaking space character \u00A0 (NBSP) that disrupted syntax structure.
+* [UI] Remove border style from table display.
+* [UI] Fix inconsistent fonts between tables and graph visualizations.
+* [UI] Fix overly light font colors in the light theme.
+
 # 2.1.0
 
 * [Feature] Support clearing a single table.
